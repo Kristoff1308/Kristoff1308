@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Krzysztof 👋
 
-<!--
-**Kristoff1308/Kristoff1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cybersecurity Specialist & Software Developer
 
-Here are some ideas to get you started:
+## Technologies
+- C#
+- SQL
+- Python
+- JavaScript
+- HTML & CSS
+- SQLite
+- Windows Forms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Cybersecurity
+- AI Systems
+- Networking
+- Software Development
+
+## Current Projects
+- Brazil Website
+- Calculator JS
