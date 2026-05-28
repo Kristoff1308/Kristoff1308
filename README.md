@@ -20,3 +20,10 @@ Aspiring Cybersecurity Specialist & Software Developer
 ## Current Projects
 - Brazil Website
 - Calculator JS
+- Database Applications
+
+## Goals
+- Build real-world software projects
+- Develop cybersecurity skills
+- Create AI-powered systems
+- Continue growing as a developer
