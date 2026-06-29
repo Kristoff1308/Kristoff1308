@@ -1,4 +1,4 @@
-# Hi, I'm Krzysztof 👋
+# Hi, I'm Krzysztof 
 
 Aspiring Cybersecurity Specialist & Software Developer
 
